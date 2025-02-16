@@ -50,6 +50,7 @@ const Contact = () => {
           <input type="number" className="field" placeholder='How many dozen?' name= 'amount' required></input>
       </div>
       <h4>Each dozen is $14. Click <a href='https://www.paypal.me/StAnthonytheGreatRH'>this link</a> to submit payment. Be sure to put your name in the purchase memo.</h4>
+      <h5>Please note: Donuts will not be ordered until payment is confirmed</h5>
       <button type="submit">Confirm donuts</button>
 
     </form>
