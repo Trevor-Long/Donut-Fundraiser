@@ -26,7 +26,7 @@ const Contact = () => {
       console.log("Success", res);
     }Swal.fire({
       title: "Success!",
-      text: "Thank you for supporting St. Anthony!",
+      text: "Thank you for supporting St. Anthony's!",
       icon: "success"
     });
   };
